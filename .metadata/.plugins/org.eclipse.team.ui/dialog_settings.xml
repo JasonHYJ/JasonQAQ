@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportPSFDialog">
+		<item key="previous" value="C:\Users\JasonQAQ\Desktop\实验工具\FlowdroidTest-eclipe-workspace\soot.psf"/>
+		<item key="previous_url" value="https://raw.githubusercontent.com/traceflight/Droidetect/master/develop/flowdroid.psf"/>
+		<list key="filenames">
+			<item value="C:\Users\JasonQAQ\Desktop\实验工具\FlowdroidTest-eclipe-workspace\soot.psf"/>
+		</list>
+		<list key="urls">
+			<item value="https://raw.githubusercontent.com/traceflight/Droidetect/master/develop/flowdroid.psf"/>
+		</list>
+	</section>
+</section>

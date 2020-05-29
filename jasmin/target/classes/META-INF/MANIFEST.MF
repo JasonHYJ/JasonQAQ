@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Jasmin
+Implementation-Version: 3.0.2
+Built-By: JasonQAQ
+Implementation-Vendor-Id: ca.mcgill.sable
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://github.com/Sable/jasmin/tree/master
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Sable
+Main-Class: jasmin.Main
+
